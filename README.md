@@ -1,6 +1,7 @@
 # heart-pcb
 I made this project with Hack Club guides from Sleepover and Stasis. This is a heart shaped PCB that has red blinking LEDs. I designed it using KiCad.
 I made the project because I wanted to learn how a circut board works and what the process of creating one requires. This is my first hardware project and I wanted to create something that was visually interesting (flashing lights are pretty cool). 
+My process was recorded on Lapse.
 
 <img width="1152" height="816" alt="Screenshot 2026-04-05 213737" src="https://github.com/user-attachments/assets/8ef31bc0-6707-4962-be75-55c12b8d37ad" />
 
